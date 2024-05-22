@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//WebContent/htgio.jsp=UTF-8
+encoding//WebContent/loai.jsp=UTF-8
+encoding//src/Controller/XoaUserController.java=UTF-8
+encoding//src/Controller/adminLoaiController.java=UTF-8
+encoding//src/Controller/adminsuaController.java=UTF-8
+encoding//src/Controller/chitietsanpham.java=UTF-8
+encoding//src/Controller/dangkyController.java=UTF-8
+encoding//src/Controller/dangkyadmin.java=UTF-8
+encoding//src/Controller/themsanphamController.java=UTF-8
+encoding//src/dao/khachhangdao.java=UTF-8
